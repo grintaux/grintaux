@@ -4,4 +4,6 @@
 
 <br />
 
+I'm working with Python, learning JavaScript.
+
 <br />
